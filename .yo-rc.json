@@ -1,0 +1,34 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jubilant.deliverycharges"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "microservice",
+    "baseName": "deliveryChargesModule",
+    "packageName": "com.jubilant.deliverycharges",
+    "packageFolder": "com/jubilant/deliverycharges",
+    "serverPort": "8081",
+    "authenticationType": "oauth2",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzU5YTUyYjBmNTY3ZTBlMGJkMGMzYmM0NTMxMTFmMzJiMGU0Mjk5ZWJkMjhmMTk5YWRmNzJjZDUzZTk5YjU0ZWJiNmU1NWY2ODIzMGI4YjkwZThmNjkwYzNjMGZmNWE0MmY1MWQ0MjYzNTgxMTUwNmNjNGY0MjIxMjUwOGI3OGQ=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
